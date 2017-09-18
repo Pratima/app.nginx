@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Pratima Singh
+  description: Nginx configuration for CentOs 6.
+  github_branch: master
+  min_ansible_version: 2.0
+
+  platforms:
+    - name: CentOs
+      versions:
+        - 6
+
+# dependencies:
+#   - app.user
+#   - repo.nginx
